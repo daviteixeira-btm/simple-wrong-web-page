@@ -30,7 +30,9 @@ Através desse desafio, busca-se destacar a importância da acessibilidade na cr
 - Funcionalidade para mudar o contraste da página;
 - Funcionalidade para ouvir a descrição da primeira imagem da página;
 - Navegação pelo teclado na tabela;
-- Máscara de Leitura. 
+- Máscara de Leitura.
+
+5. Existe algums problemas de semântica na página e boas práticas, tente resolve-los.
 
 Você pode ver um exemplo de como o site pode ser estruturado a partir da sequinte imagem, porém você pode optar por organizar o layout da pagina como preferir, desde que siga as regras de acessibilidade.
 
@@ -41,9 +43,9 @@ Você pode ver um exemplo de como o site pode ser estruturado a partir da sequin
 - Listar os problemas (ok)
 - Nota baixa do lighthouse (ensinar como baixa) (ok)
 - Objetivo - Incluir os recursos de acessibilidade usando  repositório do AccessHub (ok)
-- Descrição do AccessHub (breve)
+- Descrição do AccessHub (breve) (ok)
 
-- Mostra a página certa (imagem)
+- Mostra a página certa (imagem) (ok)
 
 - A partir do código pronto, rodar o lightHouse novamente para ver sua pontuação. (Ideal que fique todos verdes)
 - Feito isso mande o código no drive em formato zip com um print da sua pontuação.
