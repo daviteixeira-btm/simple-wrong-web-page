@@ -22,7 +22,7 @@ Através desse desafio, busca-se destacar a importância da acessibilidade na cr
 
 1. Clone este repositório para fazer o dowload do projeto.
 2. Baixe o puglin do Google Lighthouse, disponivel no Google Chrome.
-3. Execute o projeto, e em seguida utilize o puglin para ver a pontuação da página.
+3. Execute o projeto, e em seguida utilize o puglin para ver a pontuação da página. (OBS: caso o puglin não funcione, tente utilizar ele por meio do dev tools do google apertando F12 em seu teclado). 
 4. A partir disso, visite o site do AccessHub para aprender mais sobre acessibilidade web, poís voce vai precisar para implementar as seguintes funcionalidades ao projeto:
 - Pular Navegação;
 - Estruturar corretamente o vídeo da página;
@@ -36,24 +36,24 @@ Através desse desafio, busca-se destacar a importância da acessibilidade na cr
 
 Você pode ver um exemplo de como o site pode ser estruturado a partir da sequinte imagem, porém você pode optar por organizar o layout da pagina como preferir, desde que siga as regras de acessibilidade.
 
-<img src="" />
+O ideal é que a pontuação obtida no Google Lighthouse esteja entre 90 - 100 nos requisitos de Acessibilidade e Boas Praticaspara a entrega do desafio.
 
-- Descrição da página (ok)
-- Explicar que a pagina está sem os recursos de acessibilidade (ok)
-- Listar os problemas (ok)
-- Nota baixa do lighthouse (ensinar como baixa) (ok)
-- Objetivo - Incluir os recursos de acessibilidade usando  repositório do AccessHub (ok)
-- Descrição do AccessHub (breve) (ok)
+<img src="/img/site-com-funcionalidades-acessibilidade.png" />
 
-- Mostra a página certa (imagem) (ok)
+## Entrega do desafio
 
-- A partir do código pronto, rodar o lightHouse novamente para ver sua pontuação. (Ideal que fique todos verdes)
-- Feito isso mande o código no drive em formato zip com um print da sua pontuação.
+A partir da conclusão de todas as etapas do desafio, utilize o Google Lighthouse para ver sua pontuação total e nos envie um print da mesma juntamente com o código fonte do seu projeto em formato .zip no link do Drive disponivel abaixo.
 
-- A partir da sua experiencia, responda esse questionario aqui :) <link>
-- Agradecer kkk
+> Crie uma pasta com seu nome para mantermos a organização dos envios.
 
-----------------------
-- Fazer uma mensagem para abordar a pessoa no whats... (definir um prazo: Sexta agora, conclusão até dia 07 prazo apertado...)
-- formulario de termo de consendimento e questionario de perfi
-- cenário - (formulario de avaliação)
+## Feedback
+
+A partir da sua experiencia implementando as funcionalidades de acessibilidade no site, reponda o seguinte qestionario para a realização dessa pesquisa:
+
+<a href="">Link para o questionario da pesquisa</a>
+
+Agradeço demais a sua disponibilidade e participação! 
+
+<div align="center">
+Feito com ❤️ por Davi Teixeira
+</div>
