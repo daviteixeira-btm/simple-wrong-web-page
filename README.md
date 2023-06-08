@@ -47,7 +47,7 @@ A partir da conclusão de todas as etapas do desafio, utilize o Google Lighthous
 
 > Crie uma pasta com seu nome para mantermos a organização dos envios.
 
-<a href="#">Link para a pasta do Drive</a>
+<a href="https://drive.google.com/drive/folders/1K8VOKlt9zkPTxNU8rMlwDa1vzN0J9iSz?usp=sharing">Link para a pasta do Drive</a>
 
 ## Feedback
 
