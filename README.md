@@ -43,17 +43,15 @@ O ideal é que a pontuação obtida no Google Lighthouse esteja entre 90 - 100 n
 
 ## Entrega do desafio
 
-A partir da conclusão de todas as etapas do desafio, utilize o Google Lighthouse para ver sua pontuação total e nos envie um print juntamente com o código fonte do seu projeto em formato .zip no link do Drive disponivel abaixo.
+A partir da conclusão de todas as etapas do desafio, utilize o Google Lighthouse para ver sua pontuação total e nos envie um print juntamente com o código fonte do seu projeto em formato .zip no link do Drive disponibilizado pelo autor da pesquisa.
 
-> Crie uma pasta com seu nome para mantermos a organização dos envios.
-
-<a href="https://drive.google.com/drive/folders/1K8VOKlt9zkPTxNU8rMlwDa1vzN0J9iSz?usp=sharing">Link para a pasta do Drive</a>
+> Será fornecido um ID de usuário exclusivo para que possamos controlar os envios em pastas individuais, garantindo assim a organização e confidencialidade dos participantes da pesquisa.
 
 ## Feedback
 
 A partir da sua experiência de implementação das funcionalidades de acessibilidade no site, responda o seguinte questionario para a realização dessa pesquisa:
 
-<a href="#">Link para o questionario da pesquisa</a>
+<a href="https://forms.gle/tvkgqMdpAdp8GZfz7">Link para o questionario de Percepção sobre o projeto + Questionário TAM</a>
 
 Agradeço demais a sua disponibilidade e participação! 
 
