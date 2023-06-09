@@ -51,7 +51,7 @@ A partir da conclusão de todas as etapas do desafio, utilize o Google Lighthous
 
 A partir da sua experiência de implementação das funcionalidades de acessibilidade no site, responda o seguinte questionario para a realização dessa pesquisa:
 
-<a href="https://forms.gle/tvkgqMdpAdp8GZfz7">Link para o questionario de Percepção sobre o projeto + Questionário TAM</a>
+<a href="https://forms.gle/XuEUcFgB8YAiRM5h8">Link para o questionario de Percepção sobre o projeto + Questionário TAM</a>
 
 Agradeço demais a sua disponibilidade e participação! 
 
