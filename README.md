@@ -14,7 +14,7 @@ Para abordar esse desafio, será utilizado o website do AccessHub que oferece re
 
 Além disso, espera-se também melhorar a pontuação de acessibilidade no Google Lighthouse, refletindo os esforços para atender aos padrões e diretrizes de acessibilidade.
 
-<a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=pt-BR">Link para o Puglin Google Lighthouse</a>
+<a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=pt-BR">Link para o Plugin Google Lighthouse</a>
 
 Através desse desafio, busca-se destacar a importância da acessibilidade na criação de aplicações web e demonstrar como é possível implementar soluções eficazes para tornar o conteúdo acessível a todos os usuários. Espera-se que os resultados dessa pesquisa contribuam não apenas para a melhoria da página do telescópio, mas também para conscientizar e incentivar outros desenvolvedores a priorizarem a acessibilidade em seus projetos.
 
