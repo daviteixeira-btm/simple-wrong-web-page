@@ -21,9 +21,9 @@ Através desse desafio, busca-se destacar a importância da acessibilidade na cr
 ## Passo a passo
 
 1. Clone este repositório para fazer o download do projeto.
-2. Baixe o plugin do Google Lighthouse, disponivel no Google Chrome.
+2. Baixe o plugin do Google Lighthouse, disponível no Google Chrome.
 3. Execute o projeto, e em seguida utilize o plugin para ver a pontuação da página. (OBS: caso o plugin não funcione, tente utilizar ele por meio do Dev Tools do Google apertando F12 em seu teclado).
-4. A partir disso, visite o site do AccessHub para aprender mais sobre acessibilidade Web, voce vai precisar dele para implementar as seguintes funcionalidades ao projeto:
+4. A partir disso, visite o site do AccessHub para aprender mais sobre acessibilidade Web, você vai precisar dele para implementar as seguintes funcionalidades ao projeto:
 
 - Funcionalidade para pular navegação para o conteúdo principal;
 - Funcionalidade para mudar o tamanho da fonte dos texto da página;
@@ -49,7 +49,7 @@ A partir da conclusão de todas as etapas do desafio, utilize o Google Lighthous
 
 ## Feedback
 
-A partir da sua experiência de implementação das funcionalidades de acessibilidade no site, responda o seguinte questionario para a realização dessa pesquisa:
+A partir da sua experiência de implementação das funcionalidades de acessibilidade no site, responda o seguinte questionário para a realização dessa pesquisa:
 
 <a href="https://forms.gle/XuEUcFgB8YAiRM5h8">Link para o questionario de Percepção sobre o projeto + Questionário TAM</a>
 
